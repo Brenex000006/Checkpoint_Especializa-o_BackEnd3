@@ -18,7 +18,8 @@ DELETE: excluir dentista.
 
 Administração de dados dos pacientes: listar, adicionar, alterar ou excluir pacientes. Registrar os seus sobrenome, RG, nome e data de cadastro. Solicita-se o desenvolvimento de um CRU para a entidade Paciente.  
 
-POST: adicionar dentista. 
+POST: adicionar dentista.
+
 GET: trazer paciente pelo seu ID.
 PUT: atualizar paciente.
 PATCH: atualizar um paciente através de algum dos seus campos. 
